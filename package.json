@@ -14,7 +14,7 @@
     "clsx": "^2.1.1",
     "dedent": "^1.7.2",
     "drizzle-orm": "^0.45.1",
-    "hono": "4.12.5"
+    "hono": "4.12.5",
     "lucide-react": "^1.8.0",
     "mathjs": "^15.1.1",
     "nanoid": "^5.1.7",
