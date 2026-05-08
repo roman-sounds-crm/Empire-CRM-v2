@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1776136741487,
+      "tag": "0000_closed_felicia_hardy",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1776137522784,
+      "tag": "0001_organic_the_renegades",
+      "breakpoints": true
+    }
+  ]
+}
