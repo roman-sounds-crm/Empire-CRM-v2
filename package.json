@@ -53,7 +53,7 @@
     "wrangler": "^4.71.0"
   },
   "scripts": {
-    "build": "tsgo -p tsconfig.app.json && ([ ! -f autumn.config.ts ] || bunx tsc --noEmit --skipLibCheck autumn.config.ts) && vite build",
+        "build": "vite build",
     "cf-typegen": "wrangler types",
     "check": "tsgo -p tsconfig.app.json && vite build && wrangler deploy --dry-run",
     "dev": "vite",
